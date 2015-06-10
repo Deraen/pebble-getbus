@@ -1,15 +1,16 @@
 {
     "appKeys": {},
     "capabilities": [
-        "location"
+        ""
     ],
-    "companyName": "samuel@blip.at",
-    "longName": "Get Bus",
+    "companyName": "teeepeli@gmail.com",
+    "longName": "get bus zzz",
     "projectType": "pebblejs",
     "resources": {
         "media": [
             {
                 "file": "images/menu_icon.png",
+                "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
                 "type": "png"
             },
@@ -30,16 +31,16 @@
             },
             {
                 "file": "images/bus.png",
-                "menuIcon": true,
                 "name": "IMAGES_BUS_PNG",
                 "type": "png"
             }
         ]
     },
-    "shortName": "Get Bus",
-    "uuid": "3f091d94-d232-4184-b7e6-a0467a2be4fe",
+    "sdkVersion": "3",
+    "shortName": "get bus zzz",
+    "uuid": "08eea453-3d03-422a-9f15-ed4b5c57612a",
     "versionCode": 1,
-    "versionLabel": "2.0",
+    "versionLabel": "1.0",
     "watchapp": {
         "watchface": false
     }
